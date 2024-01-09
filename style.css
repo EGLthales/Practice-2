@@ -36,17 +36,46 @@ body *{
 
 
 #container{
-    border: solid 1px red;
-
-
+   
     width: 414px;
     height: 896px;
 
     margin: 0px auto;
 }
 
+#girl{
+    display: flex;
+    width: 213px;
+
+    text-align: center;
+    justify-content: center;
+
+    padding: 6px 7px 6px 7px;
+    border: solid 2px #BB99DD;
+    border-radius: 100%;
+
+    margin: 120px 100px 15px 101px;
+
+}
+
+
+#girl img{
+    width: 200px;
+}
+
+#container{
+    text-align: center;
+    justify-content: center;
+}
+
+#container p{
+    color: var(--purple);
+    font-weight: 700; 
+}
+
+
+
 #container ul{
-    border: solid 1px red;
 
     display: flex;
     flex-direction: column;
@@ -57,7 +86,7 @@ body *{
     gap: 16px;
     list-style: none;
 
-    margin: 405px 44px 68px;
+    margin: 33px 44px 68px;
     
     
 }
@@ -69,6 +98,7 @@ body *{
 
     display: flex;
     padding: 16px 0px;
+    border-radius: 4px;
 
     text-decoration: none;
     justify-content: center;
@@ -78,6 +108,8 @@ body *{
 
     font-weight: 900;
 }
+
+
 
 #links{
     display: flex;
