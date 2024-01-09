@@ -3,3 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background: url(./assets/bg-mobile.png) no-repeat top center;
+}
+
+#container{
+    border: solid 1px red;
+
+    width: 414px;
+    height: 896px;
+
+    margin: auto;
+}
+
+#container ul{
+    border: solid 1px red;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 16px;
+    list-style: none;
+
+    width: 362px;
+    height: 244px;
+
+    justify-content: center;
+    
+    
+}
+
+
+#container ul li a{
+    display: flex;
+    padding: 16px 0px;
+    
+    border: solid 1px red;
+}
+
+
+
+ 
