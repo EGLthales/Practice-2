@@ -82,6 +82,8 @@ body *{
     display: flex;
     flex-direction: column;
 
+    justify-content: center;
+
     width: 326px;
     height: 244px;
     
@@ -137,11 +139,9 @@ body *{
 #links a{
     display: flex;
     border-radius: 100%;
-    
 
     padding: 12px;
     font-size: 25px;
-
 }
 
 
