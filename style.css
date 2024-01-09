@@ -10,7 +10,7 @@
 
     --tt: rgba(0, 0, 2, 0.49);
     --bg-tt: rgba(0, 0, 2, 0.09);
-    --grd-tt: rgba(0, 0, 2, 0.07);
+    --brd-tt: rgba(0, 0, 2, 0.07);
 
     --tw: rgb(142, 8, 172, 0.49);
     --bg-tw: rgb(142, 8, 172, 0.09);
@@ -80,11 +80,11 @@ body *{
 }
 
 #links{
-    border: solid 1px red;
     display: flex;
 
     justify-content: center;
     align-items: center;
+
     gap: 12px;
  
     width: 310px;
@@ -94,12 +94,11 @@ body *{
 #links a{
     display: flex;
     border-radius: 100%;
-
-    justify-content: center;
-    align-items: center;
     
-    padding: 9px;
-    font-size: 24px;
+
+    padding: 12px;
+    font-size: 25px;
+
 }
 
 
@@ -107,25 +106,25 @@ body *{
 #tt{
     color: var(--tt);
     background: var(--bg-tt);
-    border: solid 1px var(--grd-tt);
+    border: solid 1px var(--brd-tt);
     transition: 0.6s;
 }
 #tw{
     color: var(--tw);
     background: var(--bg-tw);
-    border: solid 1px var(--grd-tw);
+    border: solid 1px var(--brd-tw);
     transition: 0.6s;
 }
 #pt{
     color: var(--pt);
     background: var(--bg-pt);
-    border: solid 1px var(--grd-pt);
+    border: solid 1px var(--brd-pt);
     transition: 0.6s;
 }
 #fc{
     color: var(--fc);
     background: var(--bg-fc);
-    border: solid 1px var(--grd-fc);
+    border: solid 1px var(--brd-fc);
     transition: 0.6s;
 }
 
@@ -133,25 +132,25 @@ body *{
 #tt:hover{
     color: rgba(0, 0, 2, 0.89);
     background: rgba(0, 0, 2, 0.19);
-    border: solid 1px rgba(0, 0, 2, 0.089);
+    border: solid 1px rgba(0, 0, 2, 0.539);
     transition: 0.6s;
 }
 #tw:hover{
     color: rgb(142, 8, 172, 0.69);
     background: rgb(142, 8, 172, 0.19);
-    border: solid 1px rgb(142, 8, 172, 0.089);
+    border: solid 1px rgb(142, 8, 172, 0.539);
     transition: 0.6s;
 }
 #pt:hover{
     color: rgb(255, 0, 0, 0.69);
     background: rgb(255, 0, 0, 0.19);
-    border: solid 1px rgb(255, 0, 0, 0.089);
+    border: solid 1px rgb(255, 0, 0, 0.539);
     transition: 0.6s;
 }
 #fc:hover{
     color: rgba(0, 0, 254, 0.69);
     background: rgba(0, 0, 254, 0.19);
-    border: solid 1px rgba(0, 0, 254, 0.089);
+    border: solid 1px rgba(0, 0, 254, 0.539);
     transition: 0.6s;
 }
 
