@@ -8,13 +8,17 @@ body{
     background: url(./assets/bg-mobile.png) no-repeat top center;
 }
 
+body *{
+    font-family: 'Roboto', sans-serif;
+}
+
+
 #container{
     border: solid 1px red;
-
     width: 414px;
     height: 896px;
 
-    margin: auto;
+    margin: 0px auto;
 }
 
 #container ul{
@@ -23,23 +27,32 @@ body{
     display: flex;
     flex-direction: column;
 
+    width: 326px;
+    height: 244px;
+    
     gap: 16px;
     list-style: none;
 
-    width: 362px;
-    height: 244px;
-
-    justify-content: center;
+    margin: 405px 44px 247px;
     
     
 }
 
 
+
+
 #container ul li a{
+
     display: flex;
     padding: 16px 0px;
-    
-    border: solid 1px red;
+
+    text-decoration: none;
+    justify-content: center;
+
+    border: solid 1px #BB99DD;
+    color: #BB99DD;
+
+    font-weight: 900;
 }
 
 
