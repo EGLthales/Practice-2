@@ -109,6 +109,15 @@ body *{
     color: var(--purple);
 
     font-weight: 900;
+
+    transition: 0.4s;
+}
+
+#container ul li a:hover{
+    border: solid 1px #343435;
+    color: #393939;
+
+    transition: 0.4s;
 }
 
 
