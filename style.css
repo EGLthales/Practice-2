@@ -4,8 +4,14 @@
     box-sizing: border-box;
 }
 
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+
+
 body{
-    background: url(./assets/bg-mobile.png) no-repeat top center;
+    background: var(--body-bg-color) no-repeat top center;
 }
 
 body *{
@@ -50,10 +56,12 @@ body *{
     justify-content: center;
 
     border: solid 1px #BB99DD;
-    color: #BB99DD;
+    color: var(--purple);
 
     font-weight: 900;
 }
+
+
 
 
 
