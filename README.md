@@ -34,7 +34,7 @@ O Practice 2 é um projeto com links para redes sociais.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/r8XY3w3vmXyltUGtOK2Zm0/Social-Tree-%E2%80%A2-Desafio-Discover-(Community)?type=design&node-id=120-19&mode=design&t=4aZntyWAumYLdkGB-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1241119965004546666). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
