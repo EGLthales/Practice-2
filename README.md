@@ -1,4 +1,4 @@
-<h1 align="center"> Practive 2 | Social Links !</h1>
+<h1 align="center"> Practive 2 | Social Links</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,11 +32,9 @@ O Practice 2 é um projeto com links para redes sociais.
 
 - [Acesse o projeto finalizado, online](https://eglthales.github.io/Practice-2/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/r8XY3w3vmXyltUGtOK2Zm0/Social-Tree-%E2%80%A2-Desafio-Discover-(Community)?type=design&node-id=120-19&mode=design&t=4aZntyWAumYLdkGB-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
