@@ -5,7 +5,7 @@
 }
 
 :root {
-    --body-bg-color: url(./assets/bg-mobile.png);
+    --body-bg-color: #FAF7FD;
     --purple: #BB99DD;
 
     --tt: rgba(0, 0, 2, 0.49);
