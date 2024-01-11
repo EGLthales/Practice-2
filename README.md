@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Practice 2 é um projeto com links para redes sociais.
 
-- [Acesse o projeto finalizado, online](https://eglthales.github.io/Practice-2/)
+- [Acesse o projeto finalizado, online](https://eglthales.github.io/Practice-2-Social-Links/)
 
 ## 🔖 Layout
 
