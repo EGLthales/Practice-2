@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Practice 2 é um projeto com links para redes sociais.
+O Practice 2 é um Social Links com links para redes sociais para seus seguidores acessarem.
 
 - [Acesse o projeto finalizado, online](https://eglthales.github.io/Practice-2-Social-Links/)
 
