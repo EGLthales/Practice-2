@@ -1,4 +1,4 @@
-<h1 align="center"> Practive 2 | Social Links</h1>
+<h1 align="center"> Practice 2 | Social Links</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Social Links" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Practice 2 é um projeto com links para redes sociais.
+O Practice 2 é um agregador de Social Links para seus seguidores acessarem.
 
 - [Acesse o projeto finalizado, online](https://eglthales.github.io/Practice-2-Social-Links/)
 
