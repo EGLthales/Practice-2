@@ -165,7 +165,7 @@ body *{
 
 /*ADD COLORS OF LINKS WITH ICON*/
 /*TWITTER*/
-#tt{
+#tt ion-icon{
     color: var(--tt);
     background: var(--bg-tt);
     border: solid 1px var(--brd-tt);
